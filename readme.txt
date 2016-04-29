@@ -28,8 +28,10 @@ How to read the output on serial monitor
 		1	153	6
 		1	172	4
 		(1) is this time it took to get a reading from the sensor.
-		(2) and (3) is the number the CapacitiveSensor library returns for the capacitiveSensor() number, it doesn't have a unit, and is used to determine the threshold for a touch.
-		You can see (2)'s value increased a lot which means my finger is touching the pad, in this case, I might set the threshold to 130.
+		(2) and (3) is the number the CapacitiveSensor library returns for the capacitiveSensor() 
+		number, it doesn't have a unit, and is used to determine the threshold for a touch.
+		You can see (2)'s value increased a lot which means my finger is touching the pad, in this 
+		case, I might set the threshold to 130.
 
 	OsuPad.ino sample output
 		(4) (5) (6) (7)
