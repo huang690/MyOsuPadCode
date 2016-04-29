@@ -43,7 +43,7 @@ How to read the output on serial monitor
 		in this example my threshold is set to 75
 
 
-Note: idk how the capacitiveSensor() work but I unconnected my Arduino overnight and the next day the threswhold had to be changed.
+Note: idk how the capacitiveSensor() work but I unconnected my Arduino overnight and the next day the threshold had to be changed.
 
 I'm pretty sure this is the future of osu(at least for me).
 I got a new highest pp with A using this, and this is saying something because my top 20 scores are 4xA, 5xB, 10xC, and 1xD.
