@@ -1,7 +1,7 @@
 #include <CapacitiveSensor.h>
 
-CapacitiveSensor   cs_4_2 = CapacitiveSensor(3,2);
-CapacitiveSensor   cs_4_6 = CapacitiveSensor(4,5);
+CapacitiveSensor   cs_4_2 = CapacitiveSensor(3,2); //2 is sensor, 3 is ground
+CapacitiveSensor   cs_4_6 = CapacitiveSensor(4,5); //5 is sensor, 4 is ground
 
 void setup()                    
 {
